@@ -138,6 +138,41 @@ const dataportfolio = [{
         description: "App 7 seven minutes work out.",
         link: "https://github.com/birzavitAlvarez/7MinutesWorkout-birza",
     },
+    {
+        img: "https://i.pinimg.com/originals/1f/f6/d2/1ff6d2ff2d2173ccf2ab6adb4c9e114a.png",
+        description: "App Pokemon",
+        link: "https://github.com/birzavitAlvarez/PokemonApp-birza",
+    },
+    {
+        img: "https://i.pinimg.com/originals/3f/31/2a/3f312aeb9a0e7c0094901d7c05ee52b8.png",
+        description: "Medidor IMC",
+        link: "https://github.com/birzavitAlvarez/IMC_ES_RU",
+    },
+    {
+        img: "https://i.pinimg.com/originals/4e/22/63/4e2263cd31cf172153820ca460a8cb7b.png",
+        description: "Menu peaker",
+        link: "https://github.com/birzavitAlvarez/EC1_BIRZAVITALVAREZPINTO_APK-MENU",
+    },
+    {
+        img: "https://i.pinimg.com/originals/d4/13/28/d413283bf085020bb71b7571eb4da50f.png",
+        description: "Productos register",
+        link: "https://github.com/birzavitAlvarez/EC2-productos-register",
+    },
+    {
+        img: "https://i.pinimg.com/originals/d6/81/55/d6815503b40d09faad007299043850b6.png",
+        description: "dark calculator",
+        link: "https://github.com/birzavitAlvarez/DarkCalculatorJava",
+    },
+    {
+        img: "https://i.pinimg.com/originals/1c/c0/93/1cc0939d6702fb7da5ade60d655fc40b.png",
+        description: "front end sistema de inventario",
+        link: "https://github.com/birzavitAlvarez/pizza-frontend/tree/main",
+    },
+    {
+        img: "https://i.pinimg.com/originals/5e/87/f0/5e87f03a8026a70fa02a1781cdc0d216.png",
+        description: "backend sistema de inventario",
+        link: "https://github.com/birzavitAlvarez/pizza-master-backend",
+    }
 ];
 
 const contactConfig = {
