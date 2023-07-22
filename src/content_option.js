@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "I am a passionate programmer with experience in developing web and mobile applications. I have knowledge in JavaScript, Python, Java, Kotlin, C++, C#, SQL Server, and MySQL. My focus is on providing efficient and high-quality solutions. I have worked on e-commerce projects and inventory management systems. I have strong skills and a quick learning ability. I am a proactive and communicative collaborator, always staying updated with the latest technologies. My goal is to create robust and high-performance applications that deliver an excellent user experience.",
-    your_img_url: "https://scontent.flim38-1.fna.fbcdn.net/v/t39.30808-6/356238215_202972506059829_2348576054819751176_n.jpg?_nc_cat=102&cb=99be929b-59f725be&ccb=1-7&_nc_sid=730e14&_nc_ohc=qg_raje4Yh0AX8Q8UW3&_nc_ht=scontent.flim38-1.fna&oh=00_AfAANh3MyQnAw8dwf3E-seYR4Ub13cYKNVhNAM37E8mN5Q&oe=64B7491F",
+    your_img_url: "https://i.pinimg.com/originals/3c/12/82/3c1282d1ba07a146221854e0c981a22d.jpg",
 };
 
 const dataabout = {
