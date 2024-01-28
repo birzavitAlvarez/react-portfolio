@@ -172,6 +172,21 @@ const dataportfolio = [{
         img: "https://i.pinimg.com/originals/5e/87/f0/5e87f03a8026a70fa02a1781cdc0d216.png",
         description: "backend sistema de inventario",
         link: "https://github.com/birzavitAlvarez/pizza-master-backend",
+    },
+    {
+        img: "https://i.pinimg.com/736x/ed/0c/5a/ed0c5ab93e084cfa45adaa0a5f458586.jpg",
+        description: "Dashboard Sabilab app Android",
+        link: "https://github.com/birzavitAlvarez/SabilabApp",
+    },
+    {
+        img: "https://i.pinimg.com/736x/64/25/13/642513ab0043dd9a6dbddcfd1df3d404.jpg",
+        description: "App kotlin google and images",
+        link: "https://github.com/birzavitAlvarez/CarmenFireBase",
+    },
+    {
+        img: "https://i.pinimg.com/originals/8b/19/65/8b19654d52b0b940cbbd31ee3bcec944.jpg",
+        description: "App kotlin Deezer android",
+        link: "https://github.com/birzavitAlvarez/Deezer_birza",
     }
 ];
 
